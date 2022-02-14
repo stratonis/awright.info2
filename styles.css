@@ -1,0 +1,30 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    color: #454851;
+    font-size: 16px;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1em;
+    line-height: 1.4;
+    text-align: justify
+}
+
+a{
+    color: #658ec6;
+    font-weight: 500;
+    font-size: 1rem;
+    opacity: 0.8;
+    border-bottom: 0px;
+    text-align: center;
+  }
+  a:hover {
+   
+    background: #e9b1a4;
+    
+  }
+
+.page{
+    font-size: 1.5rem;
+
+
+}
